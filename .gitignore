@@ -28,3 +28,6 @@ dw_php_codehinting.config
 #Ignore Atom plugin ftp config files
 .ftpignore
 .ftpconfig
+
+#Ignore VS Code ftp
+/.vscode
